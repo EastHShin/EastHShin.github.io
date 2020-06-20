@@ -96,4 +96,4 @@ freeCodecamp 사이트에 올라와 있는 "[How to improve your programming ski
 
 ---
 이 글에 대한 결론 부분은 freeCodeCamp에 대한 홍보로 끝이 나서 그냥 제외하게 되었다.<br>
-<u> 오역에 대한 지적은 감사하게 받겠습니다 </u>
+**오역에 대한 지적은 감사하게 받겠습니다**
