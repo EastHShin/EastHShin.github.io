@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "(번역)How to improve your programming skills"
-date: 2020-06-20
+date: 2020-06-21
 excerpt: "원문: How to improve your programming skills -Gael Thomas"
 tags: [Translation]
 comments: true
@@ -10,7 +10,7 @@ comments: true
  선형대수 공부를 하다 말고, 블로그를 써야겠단 생각에 펜을 놓고 번역할 거리를 찾아 보았다.<br>
 첫 번역 글이기도 하니, 프로그래밍 스킬을 늘리기 위한 방법론에 대해 검색을 해 보았고
 freeCodecamp 사이트에 올라와 있는 "[How to improve your programming skills](https://www.freecodecamp.org/news/how-to-improve-your-programming-skills/)"라는 글을 번역하기로 하였다.<br>
-출처:<https://www.freecodecamp.org/news/how-to-improve-your-programming-skills/>
+원문 링크: <https://www.freecodecamp.org/news/how-to-improve-your-programming-skills/>
 <br>
 ---
 <br>
@@ -52,19 +52,19 @@ freeCodecamp 사이트에 올라와 있는 "[How to improve your programming ski
  - 컨퍼런스나 local meetup에 참석하라.
  - Stackoverflow에서 피드백을 요청하라
  - 진행 상황을 #100DaysOfCode hashtag 해쉬 태그를 달고 Tweet해라.
-<br>
+<br> <br>
 저자에 대한 이야기: 왜 내가 HereWeCode.io 를 만들었는지 아는가?
-<br>
+<br> <br>
 나는 코드와 지식을 공유하는 것에 매료되었다. 몇년 전, 나는 각자 다른 플랫폼에 게시 된 (freeCodeCamp, dev.to 등등) 많은 글을 읽었다. 나는 모든 사람들이 각자 배우고 만든 것을, 심지어 작은 것 일지라도 공유 할 수 있다는 것을 배웠다.
-<br>
-내가 HereWecode를 만든 이유들:
+<br><br>
+내가 HereWecode를 만든 이유들:<br>
  - 더 나은 개발자가 되기 위해 나의 지식을 공유하려고
  - 초보자들이 중요한 컨셉을 이해할 수 있게 도우려고
  - 모두에게 간단하고 구체적인 예시를 만드려고
  - 내가 좋아하고 재미있어하는 것을 하기 위해
-<br>
+<br><br>
 누구든지 할 수 있다! 나는 간단하게 시작했다. 처음엔 Medium에 "Discover what an API is!"라는 작은 기사를 작성했고, 그 다음엔 Docker "A beginner's guide to Docker - how to create your first Docker application" 이라는 기사를 작성했다.
-<br>
+<br><br>
 당신이 다른 사람들을 위해 글을 씀으로서, 프로그래밍 스킬을 많이 늘릴 수 있을 것이다. 개념과 이것이 어떻게 작동하는지 설명할 줄 알게 되는것은 개발자로서 중요한 스킬이다. 기억해라, 무언가에 대해 글을 쓰기 위해 도메인 전문가가 될 필요는 없다!
 <br>
 ## 4. 코드를 읽어라
@@ -77,7 +77,7 @@ freeCodecamp 사이트에 올라와 있는 "[How to improve your programming ski
  - 뉴스
 <br>
 당신은 다른 사람들의 코드로부터 많은 것을 배울 수 있다. 당신의 분야의 전문가를 찾거나 당신의 코드와 비슷한 코드를 찾기 위해 Github를 이용할 수 있다. 다른 개발자들이 어떻게 코드를 작성하고 문제를 풀었는지 찾아보는 것은 흥미롭다. 당신의 비판적 사고력을 키울 수 있을 것이다. 그들의 코드가 당신의 코드보다 나은가?
-<br>
+<br> <br>
 매일 프로그래밍하는 것과 비슷하게, 매일 적어도 한 개의 글이나 프로그래밍 책 몇 페이지를 읽어 보는것은 어떨까?
 <br>
 몇가지 잘 알려진 책들이 있다: <br>
@@ -96,4 +96,4 @@ freeCodecamp 사이트에 올라와 있는 "[How to improve your programming ski
 
 ---
 이 글에 대한 결론 부분은 freeCodeCamp에 대한 홍보로 끝이 나서 그냥 제외하게 되었다.<br>
-** 오역에 대한 지적은 감사하게 받겠습니다 **
+<u> 오역에 대한 지적은 감사하게 받겠습니다 </u>
