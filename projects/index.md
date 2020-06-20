@@ -1,6 +1,6 @@
 ---
 layout: project
-title: All Projects
+title: Book Review
 excerpt: "A List of Projects"
 comments: false
 ---
