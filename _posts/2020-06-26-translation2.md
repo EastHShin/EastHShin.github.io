@@ -7,7 +7,7 @@ tags: [Translation]
 comments: true
 ---
 
- 나는 공부를 할 때 항상 다이어리에 스케줄을 작성한다. 그렇지 않으면 내가 무엇을 해야 할 지 길을 잃을 수도 있고, 시간 관리도 잘 되지 않기 때문이다. Medium에서 article을 읽다가 시간 관리에 대한 글이 있어 번역을 해 보았다.
+ 나는 공부를 할 때 항상 다이어리에 스케줄을 작성한다. 그렇지 않으면 내가 무엇을 해야 할 지 길을 잃을 수도 있고, 시간 관리도 잘 되지 않기 때문이다. Medium에서 article을 읽다가 시간 관리에 대한 글이 있어 번역을 해 보았다. <br>
  ~~근데 이걸 원래 해야할 공부를 제쳐두고 하고있다...~~
  <br>
  <br>
@@ -16,7 +16,7 @@ comments: true
 번역을 허락해준 Matt Lillywhite에게 감사의 인사를 드립니다. <br>
 Thanks for your permission about my translation, Matt.
 <br><br>
-원문 링크: <https://medium.com/mind-cafe/to-become-extremely-productive-practice-the-elon-musk-effect-7b86d94cba40>
+ 원문 링크: <https://medium.com/mind-cafe/to-become-extremely-productive-practice-the-elon-musk-effect-7b86d94cba40>
 <br>
 
 
@@ -71,10 +71,12 @@ Thanks for your permission about my translation, Matt.
 	어떤 업무가 일반적으로 한 시간이 걸린다면, 30분 안에 그 업무를 끝내려고 노력해라.
 	그것을 제 시간안에 끝내지 못할지라도, 당신은 인간적으로 가능한 한 효율적으로 직업의식을
 	발전시킬 것이다.
-<br>
-	* 구체적인 판매 목표량이 있을때, 그것의 두 배를 판매하도록 해라. 다시 말하지만, 당신은 그 두 배의 판매를 성취하진 못할것이다. 하지만, 원래의 목표를 더 신속히 달성할 방법을 빨리 찾을것이다.
-<br>
-	* 회의를 더 효율적으로 만들고 싶다면, 회의의 길이를 반으로 줄여라. 사람들이 다른 것들을 할 수 있는 시간에 회의로 얼마나 많은 시간을 낭비하는지 알게 되면 놀랄 것이다.
+<br> <br>
+
+	- 구체적인 판매 목표량이 있을때, 그것의 두 배를 판매하도록 해라. 다시 말하지만, 당신은 그 두 배의 판매를 성취하진 못할것이다. 하지만, 원래의 목표를 더 신속히 달성할 방법을 빨리 찾을것이다.
+<br><br>
+
+	- 회의를 더 효율적으로 만들고 싶다면, 회의의 길이를 반으로 줄여라. 사람들이 다른 것들을 할 수 있는 시간에 회의로 얼마나 많은 시간을 낭비하는지 알게 되면 놀랄 것이다.
 <br> <br>
 당신의 업무의 모든 면에서 야심찬 목표를 설정할 때, 이전의 어떤 때보다 훨씬 더 효율적이게 될 것이다.
 <br> <br>
@@ -93,7 +95,6 @@ Thanks for your permission about my translation, Matt.
 
 
 ---
-<br> <br>
-끝났으니 다시 공부하러 가야겠다...
+
 <br><br>
 **오역에 대한 지적은 감사하게 받겠습니다**
