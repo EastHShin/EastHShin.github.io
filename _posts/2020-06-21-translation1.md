@@ -12,6 +12,7 @@ comments: true
 freeCodecamp 사이트에 올라와 있는 "[How to improve your programming skills](https://www.freecodecamp.org/news/how-to-improve-your-programming-skills/)"라는 글을 번역하기로 하였다.<br>
 원문 링크: <https://www.freecodecamp.org/news/how-to-improve-your-programming-skills/>
 <br>
+
 ---
 <br>
 ## 프로그래밍 스킬을 향상시키기 위한 5가지 팁
