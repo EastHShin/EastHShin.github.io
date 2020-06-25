@@ -16,8 +16,9 @@ comments: true
 번역을 허락해준 Matt Lillywhite에게 감사의 인사를 드립니다. <br>
 Thanks for your permission about my translation, Matt.
 <br><br>
+
 원문 링크: <https://medium.com/mind-cafe/to-become-extremely-productive-practice-the-elon-musk-effect-7b86d94cba40>
-<br>
+<br> <br>
 
 
 ---
