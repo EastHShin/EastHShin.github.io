@@ -11,7 +11,7 @@ comments: true
  ~~근데 이걸 원래 해야할 공부를 제쳐두고 하고있다... 효율성 꽝~~
  <br>
  <br>
-**이 번역은 원저의 허락을 맡고 작성하는 글입니다.**
+**이 글은 원저의 허락을 맡고 번역하여 작성하는 글입니다.**
 <br>
 번역을 허락해준 Matt Lillywhite에게 감사의 인사를 드립니다. <br>
 Thanks for your permission about my translation, Matt.
