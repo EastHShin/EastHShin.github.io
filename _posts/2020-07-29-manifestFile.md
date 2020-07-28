@@ -38,17 +38,15 @@ would disagree with it if they saw it or considered it.' 이다. 이를 우리�
 <br>
 
 
-<pre>
-<code>
+```
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.firstproject">
 <application>
 ...
 </application>
-...
+
 </manifest>
-</code>
-</pre>
+```
 
 
 이와 같이 manifest파일에는 <manifest>요소와 <application>요소가 필수적으로 '한 번' 존재해야 한다. 다른 요소들은 존재하지 않아도 되고
