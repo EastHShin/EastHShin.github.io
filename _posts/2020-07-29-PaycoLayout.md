@@ -10,6 +10,7 @@ comments: true
 # Payco 따라해보기
 <br>
 ![paycoLayout](https://raw.githubusercontent.com/EastHShin/EastHShin.github.io/master/img/paycoLayout.png)
+<br>
 먼저, 크게 윤곽을 잡기위해 LinearLayout으로 6개의 구간을 나누었다. 첫번째 구간에서는
 메뉴버튼과 페이코 로고 버튼의 위치를 배정하기 위해 constraintlayout을 사용했는데,
 constraintlayout을 사용하면 화면 크기의 변화에도 적절한 비율로 위치를 잡아줄수 있을거라
