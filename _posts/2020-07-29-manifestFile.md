@@ -37,6 +37,7 @@ would disagree with it if they saw it or considered it.' 이다. 이를 우리�
 <manifest> 요소는 꼭 <application> 요소를 포함해야 한다. 구문으로 예를 들어보자.
 <br>
 
+
 ```
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.firstproject">
@@ -46,5 +47,7 @@ would disagree with it if they saw it or considered it.' 이다. 이를 우리�
 ...
 </manifest>
 ```
+
+
 이와 같이 manifest파일에는 <manifest>요소와 <application>요소가 필수적으로 '한 번' 존재해야 한다. 다른 요소들은 존재하지 않아도 되고
 한 번 이상 존재해도 된다.
