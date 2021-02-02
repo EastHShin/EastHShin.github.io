@@ -14,7 +14,7 @@ Git을 사용하다 보면, 특정 폴더만을 clone하고 싶은 경우(ex: �
 <br>
 ## sparseCheckout
 
-1. clone 받을 local repositery를 생성해준다.
+- clone 받을 local repositery를 생성해준다.
 
 <br>
 
@@ -27,9 +27,7 @@ cd Test
 
 <br>
 
-2. sparseCheckout 기능을 활성화 시켜 준다.
-
-<br>
+- sparseCheckout 기능을 활성화 시켜 준다.
 
 ~~~
 git config core.sparseCheckout true
@@ -37,9 +35,7 @@ git config core.sparseCheckout true
 
 <br>
 
-3. clone받고 싶은 저장소 remote를 추가해준다.
-
-<br>
+- clone받고 싶은 저장소 remote를 추가해준다.
 
 ~~~
 git remote add -f origin <REMOTE_URL>
@@ -47,15 +43,13 @@ git remote add -f origin <REMOTE_URL>
 
 <br>
 
-4. sparseCheckout하기 원하는 파일이나 폴더를 .git/info/sparse-checkout 파일에 기술해준다.
+- sparseCheckout하기 원하는 파일이나 폴더를 .git/info/sparse-checkout 파일에 기술해준다.
 
 ~~~
 echo "models/" >> .git/info/sparse-checkout
 ~~~
 
-5. 이제 pull하면 sparse-checkout에 기술한 경로의 파일이나 폴더만 가져온다.
-
-<br>
+- 이제 pull하면 sparse-checkout에 기술한 경로의 파일이나 폴더만 가져온다.
 
 ~~~
 git pull origin master
